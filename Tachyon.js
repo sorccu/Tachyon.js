@@ -1,8 +1,10 @@
 // Copyright 2010 Simo Kinnunen. All Rights Reserved.
+// Licensed under the MIT license.
 
 /**
  * @fileoverview A simple, stand-alone implementation of Subspace.
  * @author Simo Kinnunen
+ * @license MIT
  */
 
 var Tachyon = (function() {
